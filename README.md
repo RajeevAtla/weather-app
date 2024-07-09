@@ -1,16 +1,13 @@
 # Weather App
 
-- Mostly in rust
-- Try to be 100% typesafe
-
 ## Backend
 
-- Some actix variant
+- Bun
 
 ## Database
 
-- InfluxDB
+- We'll see
 
 ## Frontend
 
-- Dioxus
+- Farm
