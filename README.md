@@ -10,7 +10,9 @@
 
 ## Frontend
 
-- Farm
+- Farm (Rust-based Vite replacement)
+- Svelte
+- UnoCSS
 
 
 # Farm + Svelte
